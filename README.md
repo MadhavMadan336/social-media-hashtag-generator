@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f2f248f0-d721-41bd-a892-6810fe78b1ef)# Social Media Hashtag Generator
+# Social Media Hashtag Generator
 
 ## Project Description
 
@@ -15,10 +15,11 @@ This tool is ideal for people who want to increase the reach and engagement of t
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/16663046-87c8-4fec-af61-692959262ff4)
+![Hashtag Generator UI](https://github.com/MadhavMadan336/social-media-hashtag-generator/blob/master/assets/screenshot1.png)
+*The interface where users input keywords to generate hashtags.*
 
-![image](https://github.com/user-attachments/assets/808bf2f9-7b50-4483-818a-5bccec835462)
-
+![Generated Hashtags](https://github.com/MadhavMadan336/social-media-hashtag-generator/blob/master/assets/screenshot2.png)
+*Generated hashtags displayed for copying.*
 
 ## Setup Instructions
 
