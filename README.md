@@ -19,7 +19,6 @@ This tool is ideal for people who want to increase the reach and engagement of t
 
 *The interface where users input keywords to generate hashtags.*
 
-![Generated Hashtags]
 ![image](https://github.com/user-attachments/assets/71f03659-d062-4e9c-a5cb-7d9825e61ec6)
 
 *Generated hashtags displayed for copying.*
