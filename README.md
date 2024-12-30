@@ -15,7 +15,8 @@ This tool is ideal for people who want to increase the reach and engagement of t
 
 ## Screenshots
 
-![Hashtag Generator UI](https://github.com/MadhavMadan336/social-media-hashtag-generator/blob/master/assets/screenshot1.png)
+![Hashtag Generator UI](![image](https://github.com/user-attachments/assets/9f137598-c58e-49c9-a12c-b09a9d290ef2)
+)
 *The interface where users input keywords to generate hashtags.*
 
 ![Generated Hashtags](https://github.com/MadhavMadan336/social-media-hashtag-generator/blob/master/assets/screenshot2.png)
