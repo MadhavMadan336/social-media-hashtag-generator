@@ -32,3 +32,8 @@ This tool is ideal for people who want to increase the reach and engagement of t
 1. **Clone the Repository**: To start, clone the repository to your local machine using the following command:
    ```bash
    git clone https://github.com/MadhavMadan336/social-media-hashtag-generator.git
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
